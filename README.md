@@ -10,7 +10,7 @@ All entries stored here are:
 - registry-class only
 - referenced by ROOT, DEMO, BUNDLE, and CODEX realms
 
-registry/artifacts/image_1774136209019.jpeg
+![Historic Registry Artifact](registry/artifacts/image_1774136209019.jpeg)
 
 ---
 
@@ -36,12 +36,14 @@ This registry preserves institutional artifacts that require:
 
 The first artifact recorded in this registry is:
 
+![Historic Registry Artifact](registry/artifacts/image_1774136209019.jpeg)
+
+
 **HISTORIC-FIRST-QR.md**  
 Marked as:
 - is_historic: true
 - first_of_kind: true
 
-registry/artifacts/image_1774136209019.jpeg
 
 It stands as the inaugural visual artifact of the institution’s activation.
 
