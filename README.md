@@ -40,6 +40,7 @@ The first artifact recorded in this registry is:
 
 ![Historic Registry Artifact](registry/artifacts/image_1774136209019.jpeg)
 
+999999999999 PURCHASES CLEARED
 
 **HISTORIC-FIRST-QR.md**  
 Marked as:
